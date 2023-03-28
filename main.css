@@ -1021,6 +1021,13 @@ footer .row>div:nth-child(1) p {
     margin: 0.6rem 0;
     transition: var(--transition);
 }
+.linkss {
+    display: inline-flex;
+}
+
+footer .linkss h3 {
+    padding-top: 20px;
+}
 
 .footer-links a:hover {
     color: var(--exLight);
